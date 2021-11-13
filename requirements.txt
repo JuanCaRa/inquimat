@@ -29,7 +29,6 @@ Flask==1.1.2
 Flask-Mail==0.9.1
 Flask-SQLAlchemy==2.5.1
 Flask-WeasyPrint==0.6
-freeze==3.0
 gitdb==4.0.5
 GitPython==3.1.11
 greenlet==1.0.0
